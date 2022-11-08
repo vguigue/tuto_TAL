@@ -17,4 +17,23 @@ Ou **Natural Language Processing (NLP)** en anglais. La gestion des données tex
 
 2. Analyse thématique, clustering, approches non-supervisées
 
-## 2. Apprentissage de représentation
+## 2. Apprentissage non supervisé
+
+1. De k-mean à LDA
+    * utilisation de la librairie `gensim`
+2. Apprentissage de représentation
+    * Word2Vec
+    * Analyse quantitative sur la sémantique
+
+## 3. Vers le deep-learning
+
+
+## Supports supplémentaires
+
+Le cours d'opinion-mining (ou classification de sentiments) n'est plus vraiment à jour: il est centré sur les sacs de mots alors que la tâche est maintenant quasi-exclusivement abordée en deep-learning. 
+
+Je poste cependant les transparents pour deux raisons:
+
+1. Les représentations avancées en sac de mots conservent un intéret pour certaines tâches
+    * les supports peuvent aussi être utiles pour ceux qui veulent approfondir les TP.
+2. Cette tâche illustre vraiment très bien la problématique du transfert, qui devient centrale en deep
