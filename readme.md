@@ -54,9 +54,9 @@ Démontrer votre capacité à créer une chaine de traitement des données textu
 * Jeux de données
     * Revues de films
     * Chirac / Mitterrand
-* Analyses obligatoire
+* Analyses obligatoires
     * Comparer les performances avec différents pré-traitements
-        * e.g Taille de vocabulaire, Stemming, ...
+        * e.g Taille de vocabulaire, unigram/bigram, Stemming, ...
     * Implémenter un post-traitement sur les données Chirac/mittérrand
     * Appliquer les traitements optimaux sur les données de test et sauver les résultats dans un fichier txt
 * Compléments optionnels
