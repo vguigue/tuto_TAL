@@ -19,16 +19,24 @@ Ou **Natural Language Processing (NLP)** en anglais. La gestion des données tex
 
 ## 2. Apprentissage non supervisé
 
-1. De k-mean à LDA
+1. Survol de différentes techniques non-supervisées
+    * Ressources historiques en TAL
+    * Frequent Itemset
+    * Construction de ressources
+2. De k-mean à LDA
     * utilisation de la librairie `gensim`
-2. Apprentissage de représentation
-    * Word2Vec
-    * Analyse quantitative sur la sémantique
+
 
 ## 3. Vers le deep-learning
 
+1. Apprentissage de représentation de mots
+    * de Bengio et Collobert à Word2Vec et FastText
+    * Analyse quantitative sur la sémantique
+2. Fonctions d'agrégation
+    * RNN, CNN, Transformers
+3. Reflexion sur la gestion des connaissances et les modèles génératifs
 
-## Supports supplémentaires
+## Supports supplémentaires
 
 Le cours d'opinion-mining (ou classification de sentiments) n'est plus vraiment à jour: il est centré sur les sacs de mots alors que la tâche est maintenant quasi-exclusivement abordée en deep-learning. 
 
