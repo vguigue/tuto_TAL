@@ -36,6 +36,18 @@ Ou **Natural Language Processing (NLP)** en anglais. La gestion des données tex
     * RNN, CNN, Transformers
 3. Reflexion sur la gestion des connaissances et les modèles génératifs
 
+## 4. Transformer & Huggingface
+
+1. Prise en main de la librairie
+2. Adaptation pour les tâches vues précédemment
+
+- Notebook 1: Version tout automatique
+    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ePWFV3EzQnIirsokgO1LCR5FK2Xyl5EQ?usp=sharing)
+- Notebook 2: Tokenisation
+    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1AZThlaiAn4YmmLEfWxcluAo32BC8XrHs?usp=sharing)
+- Notebook 3: adaptation des modèles
+    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1GC8ce2M4tj4JtNT7xljrOr4eDK24Cb3F?usp=sharing)
+
 ## Supports supplémentaires
 
 Le cours d'opinion-mining (ou classification de sentiments) n'est plus vraiment à jour: il est centré sur les sacs de mots alors que la tâche est maintenant quasi-exclusivement abordée en deep-learning. 
